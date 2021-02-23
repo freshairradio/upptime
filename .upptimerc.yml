@@ -12,7 +12,7 @@ sites:
     url: https://api.freshair.radio
 
 status-website:
-  baseUrl: /status
+  baseUrl: /upptime
   logoUrl: https://cdn.freshair.radio/logos/FreshairBlackLogo.png
   name: FreshAir
   introTitle: "Edinburgh's student radio"
