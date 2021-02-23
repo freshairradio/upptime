@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 806,
-    "timeWeek": 806,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "time": 881,
+    "timeDay": 881,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/members.freshair.radio",
     "slug": "members-portal",
     "status": "up",
-    "uptime": "17.87%",
-    "uptimeDay": "17.87%",
-    "uptimeWeek": "17.87%",
-    "uptimeMonth": "17.87%",
-    "uptimeYear": "17.87%",
-    "time": 388,
-    "timeDay": 388,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "uptime": "90.70%",
+    "uptimeDay": "90.70%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "90.70%",
+    "uptimeYear": "90.70%",
+    "time": 411,
+    "timeDay": 411,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2021-02-23": 1
     }
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/api.freshair.radio",
     "slug": "api",
     "status": "down",
-    "uptime": "0.97%",
-    "uptimeDay": "0.97%",
-    "uptimeWeek": "0.97%",
-    "uptimeMonth": "0.97%",
-    "uptimeYear": "0.97%",
-    "time": 432,
-    "timeDay": 432,
-    "timeWeek": 432,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 453,
+    "timeDay": 453,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-02-23": 1
+      "2021-02-23": 10
     }
   }
 ]
