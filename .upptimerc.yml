@@ -7,7 +7,7 @@ sites:
   - name: Main Website
     url: https://freshair.radio
   - name: Members Portal
-    url: https://manage.freshair.radio
+    url: https://members.freshair.radio
   - name: API
     url: https://api.freshair.radio
 
