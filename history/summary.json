@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1068,
-    "timeDay": 826,
-    "timeWeek": 950,
-    "timeMonth": 1068,
-    "timeYear": 1068,
+    "time": 1059,
+    "timeDay": 864,
+    "timeWeek": 905,
+    "timeMonth": 1059,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2021-02-23": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 191,
-    "timeWeek": 202,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "time": 284,
+    "timeDay": 250,
+    "timeWeek": 200,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2021-02-23": 1
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/api.freshair.radio",
     "slug": "api",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
-    "time": 720,
-    "timeDay": 708,
-    "timeWeek": 733,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
+    "time": 714,
+    "timeDay": 601,
+    "timeWeek": 684,
+    "timeMonth": 714,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2021-02-23": 347
     }
