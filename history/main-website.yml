@@ -1,7 +1,7 @@
 url: https://freshair.radio
-status: up
-code: 200
-responseTime: 3417
-lastUpdated: 2021-03-14T23:15:23.111Z
+status: down
+code: 500
+responseTime: 1985
+lastUpdated: 2021-03-15T13:42:07.011Z
 startTime: Tue Feb 23 2021 11:50:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
