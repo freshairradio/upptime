@@ -7,9 +7,9 @@ sites:
   - name: Main Website
     url: https://freshair.radio
   - name: Members Portal
-    url: https://members.freshair.radio
+    url: https://ctrl.freshair.radio
   - name: API
-    url: https://api.freshair.radio/public/shows
+    url: https://data.freshair.radio/v1/public/shows
 
 status-website:
   baseUrl: /upptime
